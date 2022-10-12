@@ -1,0 +1,107 @@
+[
+  {
+    "name": "articles",
+    "path": "/articles",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/articles/index.vue",
+    "chunkName": "pages/articles/index",
+    "_name": "_dcbf25dc"
+  },
+  {
+    "name": "admin-admin",
+    "path": "/admin/admin",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/admin/admin.vue",
+    "chunkName": "pages/admin/admin",
+    "_name": "_2f971ded"
+  },
+  {
+    "name": "admin-update",
+    "path": "/admin/update",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/admin/update.vue",
+    "chunkName": "pages/admin/update",
+    "_name": "_e974afca"
+  },
+  {
+    "name": "admin-userCreate",
+    "path": "/admin/userCreate",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/admin/userCreate.vue",
+    "chunkName": "pages/admin/userCreate",
+    "_name": "_166357f9"
+  },
+  {
+    "name": "articles-add",
+    "path": "/articles/add",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/articles/add.vue",
+    "chunkName": "pages/articles/add",
+    "_name": "_b922713e"
+  },
+  {
+    "name": "movies-addCom",
+    "path": "/movies/addCom",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/movies/addCom.vue",
+    "chunkName": "pages/movies/addCom",
+    "_name": "_4d18f2ca"
+  },
+  {
+    "name": "user-edit",
+    "path": "/user/edit",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/user/edit.vue",
+    "chunkName": "pages/user/edit",
+    "_name": "_4b1ce52c"
+  },
+  {
+    "name": "user-login",
+    "path": "/user/login",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/user/login.vue",
+    "chunkName": "pages/user/login",
+    "_name": "_23df1d37"
+  },
+  {
+    "name": "user-logout",
+    "path": "/user/logout",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/user/logout.vue",
+    "chunkName": "pages/user/logout",
+    "_name": "_b5d4dba8"
+  },
+  {
+    "name": "user-my-account",
+    "path": "/user/my-account",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/user/my-account.vue",
+    "chunkName": "pages/user/my-account",
+    "_name": "_eda734a4"
+  },
+  {
+    "name": "user-register",
+    "path": "/user/register",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/user/register.vue",
+    "chunkName": "pages/user/register",
+    "_name": "_2759dc45"
+  },
+  {
+    "name": "articles-id",
+    "path": "/articles/:id",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/articles/_id/index.vue",
+    "chunkName": "pages/articles/_id/index",
+    "_name": "_3978aefd"
+  },
+  {
+    "name": "movies-movieid",
+    "path": "/movies/:movieid?",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/movies/_movieid.vue",
+    "chunkName": "pages/movies/_movieid",
+    "_name": "_25a07394"
+  },
+  {
+    "name": "articles-id-update",
+    "path": "/articles/:id/update",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/articles/_id/update.vue",
+    "chunkName": "pages/articles/_id/update",
+    "_name": "_8bdd36a4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/fabien/Programmation/Nuxt/Rotten-potatoes/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3c6b75a0"
+  }
+]

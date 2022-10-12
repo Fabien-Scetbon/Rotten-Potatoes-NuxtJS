@@ -1,0 +1,39 @@
+npm init nuxt-app rotten-potatoes
+
+1  Javascript        
+2 npm                    
+3 Boostrap Vue
+4 axios
+5 eslint ET prettier 
+6 testing frame : NONE 
+7 universal
+8 nodejs hosting
+9 rien (press enter)
+10 NONE
+11 Git
+
+BACK
+
+npm install express --save
+
+npm install --save-dev sass sass-loader@10
+
+npm install express-validator jsonwebtoken mongoose bcryptjs
+
+
+FRONT
+
+npm install @nuxtjs/auth
+
+MONGODB
+
+-> sudo systemctl start mongod
+-> sudo systemctl status mongod   (pour verifier si bien lancee)
+
+LANCER PROJ 
+
+npm run dev
+
+
+
+
